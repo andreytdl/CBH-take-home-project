@@ -1,3 +1,5 @@
+## Summary
+
 To solve this ticket, I'm separating it for 3 individuals. We're not just solving the ticket, but i gave them the possibility to think outside the box. I know that there may be some corner cases that i can't see, but the individual working on the task #1 will see. If they see it, they will be able to talk with their team mates to discuss the new test assertion. We're not working alone, and two heads think better than one.
 I choose 3 individuals to cooperate because I could separate it into 3 independent tasks. So then, it will not weigh for anyone and it will not be too lightweight for anyone.
 The documentation task is a task that will teach the developer to documentate everything. It is very important to have our request and responses documented.
